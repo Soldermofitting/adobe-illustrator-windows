@@ -4,8 +4,13 @@
 
 Adobe Illustrator · MoggyDay · 2026 · v30.6
 
-# Adobe Illustrator 2026 “Pro for Windows: vector, logos, SVG” [v30.6]
+# Adobe Illustrator 2026 “for Windows: vector, logos, SVG” [v30.6]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adobe-illustrator"><img src="docs/media/shot-1.jpg" alt="new" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/adobe-illustrator"><img src="docs/media/shot-2.jpg" alt="artboards" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/adobe-illustrator"><img src="docs/media/shot-3.jpg" alt="settings" width="280"></a>
+</p>
 <p><img src="docs/media/logos/adobe-illustrator.svg" alt="Adobe Illustrator" height="48"></p>
 
 MoggyDay keeps one stable URL for Adobe Illustrator: EN / RU. Vector logos, icons and print layouts. Russian UI, 2.6 GB, Windows x64.
