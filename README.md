@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/adobe-illustrator-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/adobe-illustrator-windows/?lang=en) · [Русский](https://soldermofitting.github.io/adobe-illustrator-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adobe-illustrator"><img src="docs/media/preview.jpg" alt="Illustrator preview" width="640"></a>
+</p>
+
 Adobe Illustrator · MoggyDay · 2026 · v30.6
 
 # Adobe Illustrator 2026 “for Windows: vector, logos, SVG” [v30.6]
